@@ -6,5 +6,6 @@ public class Hello
     System.out.println("Hello, my name is Kat");
 	System.out.println("Hello. my name is Anna");
 	System.out.println("Hello, my name is Sal");
+	System.out.println("Hello, my name is Mary");
   }
 }
